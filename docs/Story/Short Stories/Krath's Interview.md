@@ -12,7 +12,7 @@ subtitle: By idi0cy.inc
     For reference on what these symbols mean, see the [story index](../index.md)
 
 ## Preface
-This short story was written by my friend idiocy․inc, who has contributed many ideas to the world of COA including kickstarting most of the bullshit with the fourth wall. It is fully canonized and I may use some of these characters in the plot (as that's not fully written besides the first arc). I'm not going to give anymore context - connect the dots between all the random stuff on this network, have fun. Also, David Kim is a code name.
+This short story was written by my friend idiocy․inc, who has contributed many ideas to the world of COA including kickstarting most of the bullshit with the fourth wall. It is fully canonized and I may use some of these characters in the plot (as that's not fully written besides the first arc). I'm not going to give anymore context - connect the dots between all the random stuff on this network, have fun.
 
 ## Story
 
@@ -240,7 +240,7 @@ The man chuckled to himself a bit.
 
 “Do you mean you own this company?” Krath asked.
 
-“No. I am quite literally the company itself, I am the reason it is here. My real name is Kayden, and I am literally on the same narrative plane as the narrator. Don’t get confused, I don’t narrate. I’m just some guy who is acquainted with the narrator. Notice how I didn’t say friend there. He’s not familiar with those. Anyways I managed to bullshit this gag into existence, you'd better be thankful. This brings us to what you are going to do. We need to maintain the favor of the narrator, if we get too boring or not fun enough we’re either going to get deleted, or even worse, discontinued.” The administrator had just finished pouring the liquor into the glasses, on the rocks, and started walking back to the seat where he once was.
+“No. I am quite literally the company itself, I am the reason it is here. My name is idi0cy, and I am literally on the same narrative plane as the narrator. Don’t get confused, I don’t narrate. I’m just some guy who is acquainted with the narrator. Notice how I didn’t say friend there. He’s not familiar with those. Anyways I managed to bullshit this gag into existence, you'd better be thankful. This brings us to what you are going to do. We need to maintain the favor of the narrator, if we get too boring or not fun enough we’re either going to get deleted, or even worse, discontinued.” The administrator had just finished pouring the liquor into the glasses, on the rocks, and started walking back to the seat where he once was.
 
 “I have many questions, but I have some strange feeling they aren’t going to get answered.” Krath said.
 
