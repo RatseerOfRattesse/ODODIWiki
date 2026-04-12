@@ -18,6 +18,17 @@ Character stuff.
 
 ![Ari](../../assets/img/charrefs/ari.png)
 
+### Bia
+
+???+ info
+
+    :octicons-unverified-16: :material-crop-landscape: :material-check-all:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![Bia](../../assets/img/charrefs/bia.png)
+
+
 ### Castell
 
 ???+ info
@@ -61,7 +72,7 @@ Character stuff.
 
 ![Ari](../../assets/img/portraits/ari-old.png)
 
-### Bia
+### Bia v2
 
 ???+ info
 
@@ -70,6 +81,16 @@ Character stuff.
     For reference on what these symbols mean, see the [art index](../index.md)
 
 ![Bia](../../assets/img/portraits/bia.png)
+
+### Bia v1
+
+???+ info
+
+    :octicons-unverified-16: :material-crop-landscape: :material-check-all:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![Bia](../../assets/img/portraits/bia-old.png)
 
 ### Castell
 

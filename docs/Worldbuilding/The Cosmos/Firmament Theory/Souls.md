@@ -22,7 +22,7 @@ Let’s start with what a soul is and what it isn’t. A soul cannot think. That
 
 The soul is a vessel of immense power - at least to our perspective. The magic stored inside a single soul could flatten worlds if unleashed, yet to the cosmos it’s as insignificant as a single sac of ATP. All of this power, in a mortal soul, is sealed away by the body. It can’t handle the power of the soul. Very few people have managed to break this limitation, and most subsequently over exerted themselves in hubris and died.
 
-This massive power source within the soul fuels all of a being’s interactions with the [metasphere](Metasphere.md). Using [aura](Aura%20Mechanics.md), sensing other souls, using [Authority](Authority.md). Because of how these mechanisms work, all of these are limited by the structural integrity of the body. A more robust body means the soul can utilize its power more freely and therefore interact with the metasphere with more strength.
+This massive power source within the soul fuels all of a being’s interactions with the [metasphere](Metasphere.md). Using [aura](Aura%20Mechanics.md), sensing other souls, using [Authority](Narrative%20Manipulation.md). Because of how these mechanisms work, all of these are limited by the structural integrity of the body. A more robust body means the soul can utilize its power more freely and therefore interact with the metasphere with more strength.
 
 ## Soul-Body Connection
 

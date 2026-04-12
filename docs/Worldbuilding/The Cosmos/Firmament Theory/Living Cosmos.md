@@ -22,7 +22,7 @@ We have often wondered over the nature of consciousness for millennia, and in re
 
 The answer lies not in the [physisphere](Metasphere.md), but the metasphere. Conscious beings are so inefficient as to detriment the physisphere, but that is simply a trade off for essential payoff in the metasphere. You see, souls are the only source of consciousness. A regular non-conscious animal has no soul, and is just another form of physical entropy. Through those sickly webs of proteins and nerves and whatever the heck confusing biology, they’re predictable like all other physical processes.
 
-A soul is the core of consciousness: the ability to be and create randomness, unpredictability. Change. The narrative engine relies on change to keep the [narrative](Authority.md) afloat, and consciousness is its main producer. And to force souls to produce change, the cosmos forces hardship on all conscious beings. Forces them to create more, to progress in need of survival, until they reach newer heights and can make bigger changes. The cosmos is inherently chaotic for survival, needs more magnitude and change for it.
+A soul is the core of consciousness: the ability to be and create randomness, unpredictability. Change. The narrative engine relies on change to keep the [narrative](Narrative%20Manipulation.md) afloat, and consciousness is its main producer. And to force souls to produce change, the cosmos forces hardship on all conscious beings. Forces them to create more, to progress in need of survival, until they reach newer heights and can make bigger changes. The cosmos is inherently chaotic for survival, needs more magnitude and change for it.
 
 Or, as I originally put it in my notes:
 
