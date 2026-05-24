@@ -25,7 +25,27 @@ Miscellaneous art pieces.
     
     For reference on what these symbols mean, see the [art index](../index.md)
 
-![Ari stares at camera in shock while Grim's scythe slithers into view](../../assets/img/misc/cover.png)
+![](../../assets/img/misc/cover.png)
+
+### Cover Art textless
+
+???+ info
+
+    :octicons-unverified-16: :material-crop-landscape: :material-check-all:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![](../../assets/img/misc/coverart.png)
+
+### Old Cover Art
+
+???+ info
+
+    :octicons-unverified-16: :material-crop-landscape: :material-trash-16:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![Ari stares at camera in shock while Grim's scythe slithers into view](../../assets/img/misc/coverOld.png)
 
 ### Banner
 
