@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA
+description: Worldbuilding for ODODI
 subtitle: absolutely totally just a random universe with no significance
 ---
 

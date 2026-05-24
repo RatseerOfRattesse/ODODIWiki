@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA
+description: Worldbuilding for ODODI
 subtitle: it doesn't really matter, but REALISM
 ---
 

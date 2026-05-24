@@ -1,5 +1,5 @@
 ---
-description: Short Story for COA
+description: Short Story for ODODI
 subtitle: By RatseerOfRattesse
 ---
 

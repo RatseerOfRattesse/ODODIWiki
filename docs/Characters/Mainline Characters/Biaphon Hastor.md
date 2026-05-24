@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Biaphon Hastor of COA.
+description: Character sheet for Biaphon Hastor of ODODI.
 ---
 
 <style>

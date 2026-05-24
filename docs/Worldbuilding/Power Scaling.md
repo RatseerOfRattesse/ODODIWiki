@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA
+description: Worldbuilding for ODODI
 icon: material/scale-unbalanced
 ---
 

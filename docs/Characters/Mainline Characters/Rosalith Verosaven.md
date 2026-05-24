@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Rosalith Verosaven of COA.
+description: Character sheet for Rosalith Verosaven of ODODI.
 ---
 
 <style>

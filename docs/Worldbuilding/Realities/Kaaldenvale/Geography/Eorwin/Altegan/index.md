@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA
+description: Worldbuilding for ODODI
 subtitle: this wasn't made because I needed cultural diversity
 ---
 

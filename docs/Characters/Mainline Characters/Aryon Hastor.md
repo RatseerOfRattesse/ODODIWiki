@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Aryon Hastor of COA.
+description: Character sheet for Aryon Hastor of ODODI.
 ---
 
 <style>

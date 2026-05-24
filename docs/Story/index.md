@@ -1,11 +1,11 @@
 ---
-description: Writing assets for COA
+description: Writing assets for ODODI
 icon: fontawesome/solid/book
 ---
 
 # Story
 
-Housed here are all the writings associated with COA.
+Housed here are all the writings associated with ODODI.
 
 ## Categories
 

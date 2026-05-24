@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Duskir Hastor of COA.
+description: Character sheet for Duskir Hastor of ODODI.
 ---
 
 <style>

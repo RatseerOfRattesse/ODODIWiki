@@ -1,5 +1,5 @@
 ---
-description: Character sheet for idi0cy of COA.
+description: Character sheet for idi0cy of ODODI.
 ---
 
 <style>

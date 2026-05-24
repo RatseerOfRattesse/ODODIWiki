@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Dahr of COA.
+description: Character sheet for Dahr of ODODI.
 ---
 
 <style>

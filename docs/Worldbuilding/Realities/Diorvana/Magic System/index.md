@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA
+description: Worldbuilding for ODODI
 subtitle: metal is weak too, let's add magic
 ---
 

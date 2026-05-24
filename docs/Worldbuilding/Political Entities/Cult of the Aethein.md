@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA.
+description: Worldbuilding for ODODI.
 subtitle: classic prophecy trope but the book admits it's a lazy plot device
 ---
 

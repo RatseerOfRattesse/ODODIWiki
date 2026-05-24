@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA.
+description: Worldbuilding for ODODI.
 subtitles: malnutritioned upright beetles
 ---
 

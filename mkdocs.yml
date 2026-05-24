@@ -1,4 +1,4 @@
-site_name: Chronicles of the Aethein
+site_name: Our Deities of Dreadful Ineptitude
 site_description: A website for RatseerOfRattesse's writing project
 site_author: RatseerOfRattesse
 theme:
@@ -104,5 +104,5 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-site_url: https://ratseerofrattesse.github.io/COAWiki/
-repo_url: https://github.com/RatseerOfRattesse/COAWiki/
+site_url: https://ratseerofrattesse.github.io/ODODIWiki/
+repo_url: https://github.com/RatseerOfRattesse/ODODIWiki/

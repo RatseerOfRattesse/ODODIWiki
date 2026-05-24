@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA
+description: Worldbuilding for ODODI
 subtitle: fuelling the cosmos one suffering lifeform at a time
 ---
 

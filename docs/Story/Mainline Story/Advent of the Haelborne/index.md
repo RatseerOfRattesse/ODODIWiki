@@ -1,10 +1,10 @@
 ---
 title: Advent of the Haelborne
-description: Advent of the Haelborne, COA Book I
+description: Advent of the Haelborne, ODODI Book I
 subtitle: By RatseerOfRattesse
 ---
 
-## Chronicles of the Aethein, BK I
+## Our Deities of Dreadful Ineptitude, BK I
 
 ### By RatseerOfRattesse
 

@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA
+description: Worldbuilding for ODODI
 icon: material/earth
 ---
 
@@ -9,7 +9,7 @@ icon: material/earth
 
     Article contains spoilers: Full Series
 
-This section contains all the worldbuilding done for COA, and is where you can find background information and context. I will once again state the existence of spoilers - this contains literally all of the information about the worlds of COA.
+This section contains all the worldbuilding done for ODODI, and is where you can find background information and context. I will once again state the existence of spoilers - this contains literally all of the information about the worlds of ODODI.
 
 <div class="grid cards" markdown>
 

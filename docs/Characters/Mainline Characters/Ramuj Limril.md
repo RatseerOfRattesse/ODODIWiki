@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Ramuj Limril of COA.
+description: Character sheet for Ramuj Limril of ODODI.
 ---
 
 <style>

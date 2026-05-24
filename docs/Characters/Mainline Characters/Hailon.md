@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Hailon of COA.
+description: Character sheet for Hailon of ODODI.
 ---
 
 <style>

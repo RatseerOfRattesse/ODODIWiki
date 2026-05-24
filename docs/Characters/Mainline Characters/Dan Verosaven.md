@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Dan Verosaven of COA.
+description: Character sheet for Dan Verosaven of ODODI.
 ---
 
 <style>

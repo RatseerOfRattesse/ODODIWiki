@@ -1,6 +1,6 @@
 ---
 title: AOH Comic
-description: Advent of the Haelborne, COA Book I
+description: Advent of the Haelborne, ODODI Book I
 subtitle: By RatseerOfRattesse
 ---
 
@@ -15,7 +15,7 @@ subtitle: By RatseerOfRattesse
 ???+ tip
     What's the point of this? Don't you already have a book?
 
-    Yeah, but this is kinda for my art practice, not for storytelling. For the sake of getting shit done, the novel edition of CoA is for the story, and this is just for me to practice perspective and backgrounds and stuff, and also to satisfy my urge of animating this entire thing which isn't possible. You're supposed to read the book version and this is bonus content.
+    Yeah, but this is kinda for my art practice, not for storytelling. For the sake of getting shit done, the novel edition of ODODI is for the story, and this is just for me to practice perspective and backgrounds and stuff, and also to satisfy my urge of animating this entire thing which isn't possible. You're supposed to read the book version and this is bonus content.
 
 [![Ari stares at camera in shock while Grim's scythe slithers into view](../../../assets/img/misc/cover.png)](PCover.md)
 

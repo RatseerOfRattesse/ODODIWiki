@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Grim of COA.
+description: Character sheet for Grim of ODODI.
 ---
 
 <style>

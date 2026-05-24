@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA.
+description: Worldbuilding for ODODI.
 subtitle: spooky scary shadow demons
 ---
 

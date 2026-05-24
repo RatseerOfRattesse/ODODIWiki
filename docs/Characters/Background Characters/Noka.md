@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Noka of COA.
+description: Character sheet for Noka of ODODI.
 ---
 
 <style>

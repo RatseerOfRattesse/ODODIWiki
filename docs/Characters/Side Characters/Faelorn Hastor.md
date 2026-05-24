@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Faelorn Hastor of COA.
+description: Character sheet for Faelorn Hastor of ODODI.
 ---
 
 <style>

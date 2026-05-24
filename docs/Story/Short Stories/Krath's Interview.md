@@ -1,5 +1,5 @@
 ---
-description: Short Story for COA
+description: Short Story for ODODI
 subtitle: By idi0cy.inc
 ---
 
@@ -12,7 +12,7 @@ subtitle: By idi0cy.inc
     For reference on what these symbols mean, see the [story index](../index.md)
 
 ## Preface
-This short story was written by my friend idiocy․inc, who has contributed many ideas to the world of COA including kickstarting most of the bullshit with the fourth wall. It is fully canonized and I may use some of these characters in the plot (as that's not fully written besides the first arc). I'm not going to give anymore context - connect the dots between all the random stuff on this network, have fun.
+This short story was written by my friend idiocy․inc, who has contributed many ideas to the world of ODODI including kickstarting most of the bullshit with the fourth wall. It is fully canonized and I may use some of these characters in the plot (as that's not fully written besides the first arc). I'm not going to give anymore context - connect the dots between all the random stuff on this network, have fun.
 
 ## Story
 

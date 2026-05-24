@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Arodorros Nayirah of COA.
+description: Character sheet for Arodorros Nayirah of ODODI.
 ---
 
 <style>

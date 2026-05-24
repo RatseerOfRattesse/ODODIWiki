@@ -1,5 +1,5 @@
 ---
-description: Animation scripts made for COA
+description: Animation scripts made for ODODI
 icon: material/typewriter
 ---
 

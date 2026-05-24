@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA
+description: Worldbuilding for ODODI
 subtitle: stuck a hand into the noosphere and grabbed the biggest thing they could find
 ---
 

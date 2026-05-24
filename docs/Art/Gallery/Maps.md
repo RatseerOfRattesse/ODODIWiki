@@ -1,5 +1,5 @@
 ---
-description: Maps made for COA
+description: Maps made for ODODI
 ---
 
 # Maps

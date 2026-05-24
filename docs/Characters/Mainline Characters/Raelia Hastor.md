@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Raelia Hastor of COA.
+description: Character sheet for Raelia Hastor of ODODI.
 ---
 
 <style>

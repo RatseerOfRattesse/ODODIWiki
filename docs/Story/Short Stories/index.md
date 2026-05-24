@@ -1,5 +1,5 @@
 ---
-description: Short stories for COA
+description: Short stories for ODODI
 icon: material/book-open
 ---
 

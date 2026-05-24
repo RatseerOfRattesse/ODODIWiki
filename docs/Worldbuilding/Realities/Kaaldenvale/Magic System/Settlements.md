@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA
+description: Worldbuilding for ODODI
 subtitle: this is definitely the reason why all the cities look the same in my art
 ---
 

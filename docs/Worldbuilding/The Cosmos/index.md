@@ -1,5 +1,5 @@
 ---
-description: Worldbuilding for COA.
+description: Worldbuilding for ODODI.
 icon: material/vector-triangle
 ---
 
@@ -9,7 +9,7 @@ icon: material/vector-triangle
 
     Article contains spoilers: Full Series
 
-This section concerns fundamental mechanics of how the worlds of COA work, including multiverse theory, fundamental energies, and souls.
+This section concerns fundamental mechanics of how the worlds of ODODI work, including multiverse theory, fundamental energies, and souls.
 
 <div class="grid cards" markdown>
 

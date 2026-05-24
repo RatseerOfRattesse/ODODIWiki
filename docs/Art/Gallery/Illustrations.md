@@ -1,5 +1,5 @@
 ---
-description: Artworks made for COA
+description: Artworks made for ODODI
 title: Illustrations
 ---
 

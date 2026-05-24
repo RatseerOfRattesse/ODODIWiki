@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Keppelky of COA.
+description: Character sheet for Keppelky of ODODI.
 ---
 
 <style>

@@ -1,5 +1,5 @@
 ---
-description: Miscellaneous art made for COA
+description: Miscellaneous art made for ODODI
 ---
 
 # Misc
@@ -7,7 +7,7 @@ description: Miscellaneous art made for COA
 Miscellaneous art pieces.
 
 
-### CoA Logos
+### ODODI Logos
 
 ???+ info
 

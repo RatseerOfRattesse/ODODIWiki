@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Halos of COA.
+description: Character sheet for Halos of ODODI.
 ---
 
 <style>

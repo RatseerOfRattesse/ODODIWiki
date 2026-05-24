@@ -1,5 +1,5 @@
 ---
-description: Mainline Story for COA
+description: Mainline Story for ODODI
 icon: material/book-open
 ---
 

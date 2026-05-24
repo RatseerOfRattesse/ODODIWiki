@@ -4,4 +4,4 @@ title: Home
 icon: fontawesome/solid/house
 ---
 
-Welcome to Chronicles of the Aethein.
+Welcome to Our Deities of Dreadful Ineptitude.

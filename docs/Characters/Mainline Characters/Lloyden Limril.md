@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Lloyden Limril of COA.
+description: Character sheet for Lloyden Limril of ODODI.
 ---
 
 <style>

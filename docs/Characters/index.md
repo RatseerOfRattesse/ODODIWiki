@@ -1,5 +1,5 @@
 ---
-description: Characters of COA
+description: Characters of ODODI
 icon: material/head-cog
 ---
 
@@ -9,7 +9,7 @@ icon: material/head-cog
 
     Article contains spoilers: Full Series.
 
-Housed here are all the characters of COA.
+Housed here are all the characters of ODODI.
 
 ## Mainline Characters
 

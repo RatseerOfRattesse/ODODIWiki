@@ -1,11 +1,11 @@
 ---
-description: Art assets for COA
+description: Art assets for ODODI
 icon: material/palette
 ---
 
 # Art
 
-Housed here is all the art done for COA.
+Housed here is all the art done for ODODI.
 
 ## Conventions
 

@@ -1,5 +1,5 @@
 ---
-description: Character sheet for Krath Isarlith of COA.
+description: Character sheet for Krath Isarlith of ODODI.
 ---
 
 <style>
