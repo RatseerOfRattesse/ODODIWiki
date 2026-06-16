@@ -15,7 +15,7 @@ These stories are not locked to the main plot and serve to flesh out other eleme
 
     Krath tries to abolish his debt and gets more than he bargained for.
 
-    [:octicons-arrow-right-24: Krath's Interview](Krath's%20Interview.md)
+    [:octicons-arrow-right-24: Krath's Interview - Canon Edition](Krath's%20Interview%20-%20Canon%20Edition.md)
 
 </div>
 
@@ -38,7 +38,7 @@ These stories are not locked to the main plot and serve to flesh out other eleme
 
     ---
 
-    Trauma-ridden weirdo attempts to bring back the dead, gone wrong.
+    Trauma-ridden weirdo attempts to bring back the dead at 3AM, gone wrong.
 
     [:octicons-arrow-right-24: The Great Inventor](The%20Great%20Inventor.md)
 

@@ -314,6 +314,8 @@ She unlocked the gate into the backroom and stepped in with a waving gesture. We
 
 “Look Bia, you barely ever contribute –”
 
+![](../../../assets/img/illustrations/Ch3-2.png)
+
 “Hi,” said Rosa, holding up a green cloak and some light-looking fabric garments, lined with silver decor. “Can y’all shut up? I picked something.”
 
 “Let me inspect it,” Bia said.

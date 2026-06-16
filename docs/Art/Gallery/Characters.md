@@ -29,7 +29,7 @@ Character stuff.
 ![Bia](../../assets/img/charrefs/bia.png)
 
 
-### Castell
+### Castell v2
 
 ???+ info
 
@@ -38,6 +38,16 @@ Character stuff.
     For reference on what these symbols mean, see the [art index](../index.md)
 
 ![Castell](../../assets/img/charrefs/castell.png)
+
+### Castell v1
+
+???+ info
+
+    :octicons-unverified-16: :material-crop-landscape: :material-trash-16:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![Castell](../../assets/img/charrefs/castell-old.png)
 
 ### Halos
 
@@ -92,7 +102,7 @@ Character stuff.
 
 ![Bia](../../assets/img/portraits/bia-old.png)
 
-### Castell
+### Castell v2
 
 ???+ info
 
@@ -101,6 +111,16 @@ Character stuff.
     For reference on what these symbols mean, see the [art index](../index.md)
 
 ![Castell](../../assets/img/portraits/castell.png)
+
+### Castell v1
+
+???+ info
+
+    :octicons-unverified-16: :material-crop-landscape: :material-trash-16:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![Castell](../../assets/img/portraits/castell-old.png)
 
 ### Dan
 
@@ -132,7 +152,7 @@ Character stuff.
 
 ![Faelorn](../../assets/img/portraits/faelorn.png)
 
-### Grim
+### Grim v2
 
 ???+ info
 
@@ -141,6 +161,16 @@ Character stuff.
     For reference on what these symbols mean, see the [art index](../index.md)
 
 ![Grim](../../assets/img/portraits/grim.png)
+
+### Grim v1
+
+???+ info
+
+    :octicons-unverified-16: :material-crop-landscape: :material-trash-16:
+    
+    For reference on what these symbols mean, see the [art index](../index.md)
+
+![Grim](../../assets/img/portraits/grim-old.png)
 
 ### Hailon
 
