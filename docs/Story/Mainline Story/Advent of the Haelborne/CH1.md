@@ -24,19 +24,19 @@ Really. We’re a pair of tier sevens and she’s dragged us into the t-thirteen
 
 Loud pen scratching noises. Ignore her.
 
-I’m writing this as I walk down a forest path with my sister. Dan always says this is a terrible idea and I should pay more attention while walking through a spooky scary forest infested with monsters and shit. No. As a tier seven, I’ve gotten a lot of attribute points, twenty-seven of which are in soul. I can multitask way better than a regular fae. Took Bia and I, what, six years? to level this high – we’ve nearly reached tier eight too – and, oh, lemme tell ya, it’s worth it. I can run across the entirety of Javenshard in seconds. And to think people lived before the Governance came along.
+Situation analysis. The forest path is clear, for now. The mushrooms smell. I think they’re mushrooms.
 
-Bia’s merrily skipping down the trail while still ranting about my social deficits – which I assure you do not exist. Bia’s two years older than me – I’m eighteen – and, contrary to the majority of sibling to sibling relationships, she’s always the one annoying me, not the other way around. I’m simply too dignified to care about low hanging self assurement.
+We’re two tier sevens in a t-thirteen area.  Thank the Governance for our benefits, but it’s not going to do all that good against t–thirteens. It’ll be straight from rank advantage to strategy and skill. Small margins for failure. I would trust my skill, not Bia’s. Wouldn’t risk it either way, just for a couple more coin.
 
-Bia’s real tall. She has the Hastor line’s purple hair and eyes, hers cut short and curled. I wear it better than Bia, of course. Mother has it too, even though she married in – I swear it’s coincidence. I hope we’re not inbred – Father did always say we were descended from royalty and those fuckers are notorious for it.
+Bia’s merrily skipping down the trail while still ranting about my social deficits – which I assure you do not exist. Contrary to the majority of sibling to sibling relationships, the older is always the one annoying me, not the other way around. I’m simply too dignified to care about low hanging self assurement.
 
-Both of us have enchanted combat gear, hers consisting of an armoured jacket with silver bands and cargo pants. Our ears stretch out far longer than the average fae, expanding about ninety centimetres to either side (the Hastor line has a few… special traits). Mine has these two little tails before the end triangle, and hers three divots before the triangle. Ear shape was a feature unique to every fae, but the regs over there haven’t got the length to really be all that unique. Again, we’re special.
+Bia’s real tall. She has the Hastor line’s purple hair and eyes, hers cut short and curled. I wear it better than Bia, of course. Mother has it too, even though she married in – I swear it’s coincidence. I hope we’re not inbred – Father did always say we were descended from royalty and those fuckers are notorious for it. Either way, decent enough camouflage against the trees in this bluish starset.
 
-Compared to Bia, I’m some sort of gremlin. Height-wise, if that wasn’t clear. I have to assume certain levels of disability in anybody reading this (because it’s probably one of my friends sneaking this out of my house).
+Both of us have enchanted combat gear, hers consisting of an armoured jacket with silver bands and cargo pants. Magic silver or something. Me, I’m all black winter gear. Our ears stretch out far longer than the average fae, expanding about ninety centimetres to either side. That is an issue for navigation sometimes – though they aren’t rigid and we can move them with more agility than most fae. Mine has these two little tails before the end triangle, and hers three divots before the triangle. Ear shape was a feature unique to every fae.
 
-I’m short for a fae, only one and a bit metres tall. My hair’s longer, styled super weird with a braid and multiple blatant violations of the laws of physics. My ears droop downward a lot. My gear, a parka with selective armour plating, with my good old red scarf layered over it. Not the most resilient – thank wealth inequality for repair enchantments.
+Compared to Bia, I’m some sort of gremlin. Height-wise, if that wasn’t clear. I have to assume certain levels of disability in anybody reading this. It’s probably Rosa sneaking this out of my house.
 
-“... and that’s why you suck and the gods hate you.”
+“... and that’s why you suck and the trinity hate you.”
 
 I looked up.
 
