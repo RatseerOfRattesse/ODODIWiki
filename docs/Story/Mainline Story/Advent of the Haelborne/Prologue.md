@@ -83,7 +83,7 @@ Limril stared at it.
 
 “Fuck I said it twice. Anyway why’re we going there?”
 
-“The Fundament Glass, Grim. The reason we recruited you in the first place?”
+“The Firmament Hourglass, Grim. The reason we recruited you in the first place?”
 
 “Recruited me? No, I think I recruited myself.”
 

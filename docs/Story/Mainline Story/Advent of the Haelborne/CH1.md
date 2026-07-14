@@ -32,7 +32,7 @@ Bia’s merrily skipping down the trail while still ranting about my social defi
 
 Bia’s real tall. She has the Hastor line’s purple hair and eyes, hers cut short and curled. I wear it better than Bia, of course. Mother has it too, even though she married in – I swear it’s coincidence. I hope we’re not inbred – Father did always say we were descended from royalty and those fuckers are notorious for it. Either way, decent enough camouflage against the trees in this bluish starset.
 
-Both of us have enchanted combat gear, hers consisting of an armoured jacket with silver bands and cargo pants. Magic silver or something. Me, I’m all black winter gear. Our ears stretch out far longer than the average fae, expanding about ninety centimetres to either side. That is an issue for navigation sometimes – though they aren’t rigid and we can move them with more agility than most fae. Mine has these two little tails before the end triangle, and hers three divots before the triangle. Ear shape was a feature unique to every fae.
+Both of us have enchanted combat gear, hers consisting of an armoured jacket with silver bands and cargo pants. Magic silver or something. Me, I’m all black winter gear. Our ears stretch out far longer than the average fae, expanding about ninety centimetres to either side. That is an issue for navigation sometimes – though they aren’t rigid and we can move them with more agility than most fae. Mine has these two little tails before the end triangle, and hers three divots before the triangle.
 
 Compared to Bia, I’m some sort of gremlin. Height-wise, if that wasn’t clear. I have to assume certain levels of disability in anybody reading this. It’s probably Rosa sneaking this out of my house.
 
@@ -54,7 +54,7 @@ I stare back with glaring intensity.
 
 “And we’re tier seven.”
 
-“Well isn’t that just tragic! But please, shut up and do the scan already.”
+“Well, I don’t know what thirteen minus seven is. But please, shut up and do that scan already.”
 
 Rolling my eyes, I summoned a weapon with the snap of a finger. A dagger flickered into existence in my hands. A blade of deep purple crystal, with red trails shimmering throughout, twisting and swirling like hundreds of miniature snakes.
 
@@ -135,7 +135,7 @@ Rolling my eyes, I summoned a weapon with the snap of a finger. A dagger flicker
 
 I twirled the dagger before sliding it into a scabbard on my belt. This bad boy had slain a lot of monsters and was one of the first abilities I’d acquired, from back when we first immigrated to Haelcrien and mother still had the heart, and sanity, to train me.
 
-From my dimensional bag, I took a metal tablet, tapping the tablet thrice like I had done hundreds before. After a brief moment, lines engraved themselves into the metal, creating a radar interface. A quick scanning animation followed, before dots appeared around the area. I tapped the closest one.
+From my dimensional bag, I took a metal tablet, tapping it thrice like I had done hundreds before. After a brief moment, lines engraved themselves into the metal, creating a radar interface. A quick scanning animation followed, before dots appeared around the area. I tapped the closest one.
 
 ???+ governance "Creature: [Crienbeast] (Beast)"
 
@@ -400,7 +400,7 @@ I was silent at the dome of scattered lights in the sky. This late in the day, t
 
 “You’re no fun. I’m going to leave now, see ya!”
 
-In one movement spanning less than a second, she had completely disappeared from sight. With a blink, I pulled at the energy behind my eyes. A red sigil appeared in my vision, becoming smaller as it mapped itself onto my retreating sister’s back.
+In one movement spanning less than a second, she had completely disappeared from sight. That was a waste of mana. With a blink, I pulled at the energy behind my eyes. A red sigil appeared in my vision, becoming smaller as it mapped itself onto my retreating sister’s back.
 
 “Very funny!” I called. “Get back here!”
 
@@ -522,7 +522,7 @@ Eight eyes glowed with bright red glee, arranged in a circle surrounding a gapin
 
 Why wasn’t it attacking?
 
-Oh yeah. This would be a supremely comedic moment for it to slapped me backwards through seventeen trees.
+Oh yeah. This would be a supremely comedic moment for it to slap me backwards through seventeen trees.
 
 I should probably… run?
 
