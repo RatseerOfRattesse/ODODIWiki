@@ -1,0 +1,445 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
+
+img[src*="#centre"] {
+  display: block;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+h2, h3{
+    font-weight: bold;
+}
+
+ul, ol {
+    line-height: 115%;
+}
+
+:root {
+    --md-text-font: "Gentium Book Plus";
+    --md-admonition-icon--governance: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>code-array</title><path d="M3,5A2,2 0 0,1 5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5M6,6V18H10V16H8V8H10V6H6M16,16H14V18H18V6H14V8H16V16Z" /></svg>')
+    }
+    .md-typeset .admonition.governance,
+    .md-typeset details.governance {
+      border-color: rgb(80, 80, 160);
+      font-family: 'Funnel Display', serif;
+      font-weight: bold;
+      font-size: 0.75rem;
+    }
+    .md-typeset .governance > .admonition-title,
+    .md-typeset .governance > summary {
+      background-color: rgba(80, 80, 160, 0.1);
+    }
+    .md-typeset .governance > .admonition-title::before,
+    .md-typeset .governance > summary::before {
+      background-color: rgb(80, 80, 160);
+      -webkit-mask-image: var(--md-admonition-icon--governance);
+              mask-image: var(--md-admonition-icon--governance);
+}
+
+.md-header__topic {
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-size: 2rem;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 3rem;
+}
+
+.md-header__button.md-logo {
+    margin: .1rem;
+    padding: .2rem;
+}
+
+body {
+    background-image: url(../assets/img/misc/wildberries.png);
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+[data-md-color-scheme=slate] {
+    --md-typeset-color: hsl(0deg 0% 100%);
+    --md-default-bg-color: hsl(340deg 12.15% 34.54%);
+    --md-footer-bg-color: hsl(340deg 54.38% 32.75% / 32%);
+    --md-footer-bg-color--dark: hsl(340deg 54.38% 32.75% / 32%);
+    --md-admonition-bg-color: hsl(340deg 20.41% 9.02%);
+}
+
+/* fixing nav sidebars */
+.md-nav {
+    background: hsl(340deg 82.04% 51.96% / 32%);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+@media screen and (min-width: 76.25em) {
+    .md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link {
+        background: hsl(340deg 82.04% 51.96% / 0%);
+        box-shadow: 0 0 .4rem .4rem hsl(340deg 82.04% 51.96% / 0%);
+        margin-top: 0;
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .md-nav--secondary .md-nav__title {
+        background: hsl(340deg 82.04% 51.96% / 0%);
+        box-shadow: 0 0 .4rem .4rem hsl(340deg 82.04% 51.96% / 0%);
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+}
+
+.md-nav__title {
+    color: #ed5487;
+    display: block;
+    font-weight: 700;
+    overflow: hidden;
+    padding: 0 .6rem;
+    text-overflow: ellipsis;
+}
+
+.md-nav__list {
+    background: hsl(340deg 82.04% 51.96% / 32%);
+}
+
+/* fixing back to top button */
+
+.md-top {
+    color: hsl(0deg 0% 100%);
+}
+
+/* weird stuff in the footer that was separate for some reason - making the text white */
+.md-copyright {
+    color: #ffffff;
+}
+
+.md-copyright__highlight {
+    color: #ffffff;
+}
+
+html .md-footer-meta.md-typeset a {
+    color: #ffffff;
+}
+
+
+/* annotations */
+.md-annotation__index {
+    --md-default-bg-color: hsl(340deg 62.03% 15.84%);
+}
+
+.md-tooltip {
+    color: hsl(0deg 0% 100%);
+}
+
+/* blog sidebars are weird idk */
+@media screen and (min-width: 76.25em) {
+    .md-nav--primary .md-nav__title {
+        background: hsl(340deg 82.04% 51.96% / 0%);
+        box-shadow: 0 0 .4rem .4rem hsl(340deg 82.04% 51.96% / 0%);
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+}
+
+/* border around main box */
+.md-content {
+    display: initial;
+    background: hsl(340deg 82.04% 51.96% / 32%);
+    flex-grow: 1;
+    min-width: 0;
+}
+
+/* heading colours were weird */
+.md-typeset h1 {
+    color: #ffffff;
+    font-size: 6em;
+    line-height: 1;
+    margin: 0 0 0;
+}
+
+/* sidebar alignment */
+.md-sidebar {
+    padding: 0rem 0;
+    order: 1;
+}
+
+/* main content alignment */
+.md-grid {
+    max-width: 70rem;
+}
+
+/* HOME PAGE STUFF */
+.mdx-hero {
+    display: block;
+    height: inherit;
+}
+
+.js .mdx-hero[hidden]>* {
+    opacity: 0;
+    transform: translateY(16px);
+    transition: transform 0ms .1s,opacity .1s
+}
+
+.mdx-hero__scrollwrap {
+    height: 100vh;
+    margin-bottom: -100vh;
+    position: sticky;
+    top: 0;
+    z-index: 9;
+}
+
+.mdx-hero__inner {
+    background: hsl(340deg 82.04% 51.96% / 32%);
+    bottom: 3.2rem;
+    display: block;
+    position: absolute;
+    transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .25s;
+    width: 90%
+}
+
+@media screen and (max-width: 44.984375em) {
+    .mdx-hero__inner {
+        bottom:6.4rem
+    }
+}
+
+.mdx-hero__teaser {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    color: var(--md-primary-bg-color);
+    margin: 0 .8rem;
+}
+
+.mdx-hero__teaser h1 {
+    color: inherit;
+    font-weight: 700;
+    margin-bottom: 0
+}
+
+.mdx-hero__teaser :not(.md-button) {
+    text-shadow: 0 0 .2rem #211d2dcc
+}
+
+.mdx-hero .mdx-hero__attribution {
+    background-color: var(--md-default-bg-color--light);
+    border-radius: .1rem;
+    bottom: -2.4rem;
+    color: var(--md-default-fg-color);
+    font-size: .5rem;
+    padding: .1rem .4rem;
+    position: absolute;
+    right: .8rem;
+    transition: color 125ms,background-color 125ms
+}
+
+.mdx-hero .mdx-hero__attribution:focus,.mdx-hero .mdx-hero__attribution:hover {
+    background-color: var(--md-accent-fg-color);
+    color: var(--md-accent-bg-color)
+}
+
+.mdx-spotlight {
+    margin: 2em 0
+}
+
+.mdx-spotlight__feature {
+    display: flex;
+    flex: 1 0 48%;
+    flex-flow: row nowrap;
+    gap: 3.2rem;
+    margin: 0 0 3.2rem
+}
+
+.mdx-parallax {
+    height: 100vh;
+    margin-top: -2.4rem;
+    overflow: hidden auto;
+    overscroll-behavior-y: none;
+    perspective: var(--md-parallax-perspective);
+    scroll-behavior: smooth;
+    width: 100vw
+}
+
+.mdx-parallax__group {
+    background-color: var(--md-default-bg-color);
+    color: var(--md-typeset-color);
+    display: block;
+    position: relative;
+    transform-style: preserve-3d
+}
+
+.mdx-parallax__group:first-child {
+    background-color: initial;
+    height: 140vh
+}
+
+.mdx-parallax__group:last-child {
+    background-color: var(--md-default-bg-color)
+}
+
+.mdx-parallax__layer {
+    height: max(120vh,100vw);
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    transform: translateZ(calc(var(--md-parallax-perspective)*var(--md-parallax-depth)*-1)) scale(calc(var(--md-parallax-depth) + 1));
+    transform-origin: 50vw 50vh;
+    width: 100vw;
+    z-index: calc(10 - var(--md-parallax-depth, 0))
+}
+
+.mdx-parallax__image {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    object-position: var(--md-image-position,50%);
+    position: absolute;
+    width: 100%;
+    z-index: -1
+}
+
+.mdx-parallax__blend {
+    background-image: linear-gradient(to bottom,#0000,var(--md-default-bg-color));
+    bottom: 0;
+    height: min(100vh,100vw);
+    top: auto
+}
+
+.mdx-expect__list {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 1.6rem;
+    padding: 0;
+}
+
+.mdx-expect__item {
+    padding-bottom: 2rem;
+    display: flex;
+    flex: 1 0 48%;
+    gap: .6rem;
+    margin: 0;
+    transition: transform .75s cubic-bezier(.075,.85,.175,1), opacity .75s;
+    flex-wrap: wrap;
+}
+
+.md-content__inner {
+    margin: 0 .8rem 0rem;
+    padding-top: 0px;
+    padding-bottom: 2px;
+}
+
+@media screen and (min-width: 60em) {
+    .mdx-spotlight__feature:nth-child(odd) {
+        flex-direction: row-reverse;
+    }
+}
+
+.mdx-spotlight__feature {
+    display: flex;
+    flex: 1 0 48%;
+    flex-flow: row nowrap;
+    gap: 3.2rem;
+    margin: 0 0 3.2rem;
+}
+
+.mdx-spotlight__feature>a {
+    display: block;
+    flex-shrink: 0;
+    transition: transform .5s cubic-bezier(.075,.85,.175,1);
+}
+
+.mdx-users {
+    display: flex;
+    gap: 3.2rem;
+    margin: 2.4rem 0;
+}
+
+.mdx-users__testimonial img {
+    border-radius: 5rem;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10rem;
+}
+
+.mdx-users__testimonial {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 1.2rem;
+    margin: 0;
+    text-align: center;
+}
+
+.md-typeset a {
+    color: #e92063;
+    word-break: break-word;
+}
+
+.md-tabs {
+    background-color: #e9206300;
+    color: var(--md-primary-bg-color);
+    display: block;
+    line-height: 1.3;
+    overflow: auto;
+    width: 100%;
+    z-index: 3;
+}
+
+.md-header {
+    background-color: hsl(0deg 0% 0%);
+    background-image: url(../assets/img/misc/sitebanner.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.panel1 {
+    background-color: hsl(0deg 0% 0%);
+    background-image: url(../assets/img/misc/purplebuildings.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.mdx-expect__description {
+    padding-right: 20cqi;
+}
+
+.storyintro {
+    background-image: url(../assets/img/misc/storybanner.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.storydescription {
+    padding-right: 53cqi;
+    padding-left: 5cqi;
+}
+
+.worldbuildingdescription {
+    text-align: right;
+    color: white;
+    padding-left: 37cqi;
+    padding-right: 5cqi;
+}
+
+.worldbuildingintro {
+    background-image: url(../assets/img/misc/worldbuildingbanner.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
