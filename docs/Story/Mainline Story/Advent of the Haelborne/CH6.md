@@ -14,7 +14,7 @@ subtitle: secret tunnel
 
 The stars are rising and the bluelight is creeping over the trees again. No idea why the two morons had gone out so early – it’s pitch fucking black and tier ones can’t see. They’re out shopping for food – another issue with travelling with the lowtiers. Lloyden and I were off to buy some more emergency healing potions after I blew my last one on Grim, along with some other adventuring supplies.
 
-Evedast, despite not having any adventurers of its own, saw a few pass through it each week and so had a lot of decently supplied stores catering to us. We were able to find a decent potions place quite easily and then headed back off to a random tavern we’d designated as a meeting spot.
+Evedast, despite not having any adventurers of its own, saw a few pass through it each week and so had a lot of decently supplied stores catering to us. Bia and I sold our Governance core to a broker named Allayots. We were able to find a decent potions place quite easily and then headed back off to a random tavern we’d designated as a meeting spot.
 
 The door swung open to a completely empty room furnished with lot of red and gold deco and copious amounts of flowers. One banner hung from the ceiling beside the bar, on which was scrawled a word in Ruelevan-looking ideographs. This was probably one of those goofy foreign country-masquerading places. They’d serve you pieces of ‘foreign’ culture that were neither authentic nor tasty.
 

@@ -96,7 +96,7 @@ Bia shot me a worried glance. Dan leaned at us in interest as he handed Rosa her
 
 “You know Dawne isn’t backing off easily; you should hold onto it. Without it you wouldn’t have been able to fend off Grim.”
 
-“Grim, Dawne, and whatever the basement cult was are only after usfor the ‘glass. There would be no danger if it weren’t here.”
+“Grim, Dawne, and whatever the basement cult was are only after us for the ‘glass. There would be no danger if it weren’t here.”
 
 “Do you really trust them to keep their word? Dawne won’t care, but Grim seems plenty interested in taking your guts out.”
 
@@ -214,9 +214,9 @@ Dan slammed Rosa onto a hexacampus and took off. Bia looked at the last ‘campu
 
 Dozens of solid concrete walls sprang up behind us, Bia swinging her arms wildly. I spun around and stood on my crab, my fingers spewing red lightning and light blades. Lloyd was also working next to me – the man had no ranged abilities but he always came prepared. A slightly underlevelled projectile weapon rained golden buckshot in Grim’s way. It wouldn’t score any damage but it’d certainly slow it down. Maybe.
 
-“Oh, is this the HOA?” Rosa screamed. “Fuck off!”
+“Oh, is this Ari's HOA guy?” Rosa screamed. “Fuck off!”
 
-“What’s an HOA?!” Grim responded, curious. Still clawing at the ground like a rabid dog though – and it’s definitely gaining on us. These hexcampi are not on par with a tier forty whatever-the-fuck-that-is.
+“What’s an HOA?!” Grim responded, curious. Still clawing at the ground like a rabid dog though – and it’s definitely gaining on us. These hexcampi are not on par with a tier forty whatever-the-fuck-that-is. They sprinted out of our campsite – we’d need to get new tents at the next town, but that was well worth not dying.
 
 “It’s like, these people that go around the neighbourhood and bitch about – WOAH!” Metal tentacles were burrowing through the ground – one had almost tripped their hexacampus.
 
@@ -236,7 +236,7 @@ Dozens of solid concrete walls sprang up behind us, Bia swinging her arms wildly
 
 It launched out of the cloud of dust straight at my hexacampus, a claw outstretched. Lloyd shot it about fifty times but no dice – it kept barreling straight forward and pinned me to the crab, which bellowed an angry chirp and began spinning while still sprinting forward. For a crab, these things were pretty damn agile.
 
-I brought up my greatsword to fend off the demon as it slithered several blade-tipped tentacles to assist its arms.
+I brought up my greatsword to fend off the demon as it slithered several blade-tipped tentacles to assist its arms. Grim's form seemed to swirl and morph as it moved, new armaments appearing as it needed them. I could barely see, much less dodge. There was a claw there, a razor across, a giant pair of pruning shears and the hem of a dress, a giant spiral of moving weaponry.
 
 “You can get dish soap, eh –” Rosa raised her voice. “NOT HERE! LIKE, OFF IN THE AUTUMN KINGDOM!”
 
@@ -248,9 +248,11 @@ I brought up my greatsword to fend off the demon as it slithered several blade-t
 
 “THEN WHERE-YA FROM?”
 
-I gritted my teeth, barely dodging a massive scythe-tentacle.
+I gritted my teeth, barely dodging a massive scythe-tentacle. We traded more blows and danced across the back of the crab, which seemed to be accelerating to lightspeed.
 
 “I AM FROM BEYOND REALITY! EHHEAHAHA! YA EVER HEARD OF DIORVANA?!”
+
+A small blade sliced across my forearm. Another across my face as I dodged more than fought. Red lightning enhanced my shields where I conjured them, repelling Grim but charring my fingers more with each expenditure.
 
 “NO, WHAT’S THAT?!”
 
@@ -278,7 +280,7 @@ Not Dawne at least.
 
 “You belong there yourself,” I reengaged the demon and immediately took a slash to the eye, and a few more before –
 
-I snapped four fingers in casting potion. Red lightning blasted a chunk off Grim’s arm and sent it reeling back. A sword swing and a follow up blast sequence launched it right back into the stratosphere.
+I snapped four fingers in casting position. Red lightning blasted a chunk off Grim’s arm and sent it reeling back. A sword swing and a follow up blast sequence launched it right back into the stratosphere.
 
 “Keep going!” I shouted, bending down to retrieve a potion from my dimensional bag.
 

@@ -18,6 +18,8 @@ Lloyd dismounted his crab with slightly more grace and then fell onto the same t
 
 “Come on people,” I attempted. “Let’s get camp set up again.”
 
+“we don't have tents...” Dan complained.
+
 “No no,” Rosa exclaimed. “Can we take a fucking moment to talk about what just happened?!”
 
 “Later. Mindless work can’t damage a tired brain, discussion can. Shut the fuck up.”
@@ -178,7 +180,7 @@ Okay.
 
 “If it’s a good one, sure,” Dan said darkly.
 
-Lloyd looked concerned as I felt.
+Lloyd looked concerned as I felt. Dan yawned.
 
 
 
@@ -276,7 +278,7 @@ The thing was in the shape of some kind of canine, but quickly armoured itself u
 
 
 
-Echoing Strikes was one of my main abilities that defined my specialization as a artillery cannon perched upon a glass castle, along with the wings and other mobility abilities. The bonestalker quickly learned armouring up was no use and switched to a more offensive form, standing high upright and morphing sickle claws. A combo of slashes forward sent me dashing away and latching onto a tree.Their length still nicked my foot and the tier-nine material did a lot more damage than I would’ve liked.
+Echoing Strikes was one of my main abilities that defined my specialization as an artillery cannon perched upon a glass castle, along with the wings and other mobility abilities. The bonestalker quickly learned armouring up was no use and switched to a more offensive form, standing high upright and morphing sickle claws. A combo of slashes forward sent me dashing away and latching onto a tree.Their length still nicked my foot and the tier-nine material did a lot more damage than I would’ve liked.
 
 Anyway, the bonestalker had discovered that ludicrous range was more effective against me than traditional defence. The bone scythes it’d made for hands were slicing through trees and its higher-tier reflexes were letting it nearly catch me with every swing.
 

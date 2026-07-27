@@ -42,7 +42,7 @@ The hexacampi’s eyes stared blankly at me, preceding the its legs collapsing f
 
 “How the fuck do you do that?” Rosa jumped. “Did you rank up behind my back or something? Uber-level your stealth skill?”
 
-“Some people are just better than others,” Dan says solemnly. His facade promptly fell apart into laughter.
+“Some people are just better than others,” Dan says solemnly. His facade promptly fell apart into chuckling.
 
 “Also,” began Lloyd. “Skills don’t actually make you better at something.”
 
@@ -96,7 +96,7 @@ I checked my tablet. The ping location was still six hundred metres to our east.
 
     A raptor looking monster. Possesses razor teeth and wings composed of many sharp cartilage fragments. Small three-clawed hands are attached to the ends of the wings. They are covered in feathers that stay soft until hit, at which point they harden to protect the raptor.
 
-“Only a few hundred metres,” I said, checking my tablet. “Don’t you have your own scanner?”
+“Only a few hundred metres,” I said. “Don’t you have your own scanner?”
 
 “Nope!”
 
@@ -128,7 +128,7 @@ The rest of the party halted their hexacampi and dismounted as a gilded blur spu
 
 I waved the party forwards, following the scanner.
 
-“The *zeroes* have a name,” Rosa said, fooling around with a bow and arrow and definitely holding them wrong. I’m not expert but I still know some archery basics. The Verosavens, on the other hand, never took a combat education.
+“The *zeroes* have a name,” Rosa said, fooling around with a bow and arrow and definitely holding them wrong. I’m no expert but I still know some archery basics. The Verosavens, on the other hand, never took a combat education.
 
 “Maybe it’d have been prudent,” Dan said after an exasperated glance. “To hold off on giving this girl dangerous weaponry until she can take an archery course.”
 
@@ -199,7 +199,7 @@ I shook my head with a laugh, then turned back to the competent one.
 
 I rolled my eyes. “Lloyd.”
 
-He rolled his eyes too. “Ars, why me?”
+He rolled his eyes too. “Ars, why me?   ``
 
 “You’re the Governance lore guy,” I shrugged. “Makes sense.”
 

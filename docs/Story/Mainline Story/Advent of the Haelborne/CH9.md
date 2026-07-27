@@ -12,15 +12,15 @@ subtitle: sicq; tandem subtractus visibus hominum, factus est æternus socius d�
 
     Chapter illustrations currently WIP.
 
-Weven saw us out of his village with a bag of burgers, made with some surprisingly delicious tier three beefs. Dan, Lloyd and Rosa had already gorged themselves full regardless of the takeout. Bia and I looked like saints next to their gluttony. Maybe next time we defend a village we should ask for something more useful.
+Weven saw us out of his village with a bag of burgers, made with some surprisingly delicious tier three beefs.  I'd also bought some new tents and other camping supplies from his friend Beaven who conveniently had several the villagers had used before establishing these buildings. Dan, Lloyd and Rosa had already gorged themselves full regardless of the takeout. Bia and I looked like saints next to their gluttony. Maybe next time we defend a village we should ask for something more useful.
 
 We recovered our hexacampi and departed again. It would be just about 8 hours travel to the next town, a little place called Tirio. Hopefully they’d be more competent than these people. Or less. I could try for that something more useful. Maybe Tirio is wealthy instead of competent. More likely just both. Duskir and Faelorn often expressed their disapproval of Haelcrien’s combative capability.
 
-After a few kilometres the road lead us out of the forest and onto the plains. Luckily the stars weren’t so strong in autumn, so the lack of cover didn’t make their light unbearable. Golden grasses lingered short across the plain, occasionally leading to patches of taller, almost bushlike weed and circles of coarse dirt. The weed bunches were almost like trees, but cylindrical and badly silhouetted – if I’d painted those I’d probably kill myself. For an area labelled as the ‘Haelcrien Plains’, it’s not very flat from ground level.
+After a few kilometres the road led us out of the forest and onto the plains. Luckily the stars weren’t so strong in autumn, so the lack of cover didn’t make their light unbearable. Golden grasses lingered short across the plain, occasionally leading to patches of taller, almost bushlike weed and circles of coarse dirt. The weed bunches were almost like trees, but cylindrical and badly silhouetted – if I’d painted those I’d probably kill myself. For an area labelled as the ‘Haelcrien Plains’, it’s not very flat from ground level.
 
 The hexacampi had no issue navigating through the grass, even though we couldn’t see. I think they echolocated or something, dunno. You’d have to ask Bia.
 
-“This place looks goofy,” Rosa said delightfully. The Verosavs had never really left Javenshard before. “Why’s the grass so uneven?”
+“This place looks goofy,” Rosa said delightfully. Rosa had never really left Javenshard before, though I recall Dan took post education in one of the larger towns. “Why’s the grass so uneven?”
 
 She glanced at Lloyd.
 
@@ -56,11 +56,7 @@ It was at this point I gave up deciphering their nonsense and retired from the s
 
 “Would that really benefit them? ” Lloyd asked. “They need to do their fundamentals first, and they’re nowhere done.”
 
-“Oh, you can tell we’re about to be knee deep in shit. They’ll need a crash course.”
-
-“Or you could just give up the neckla –”
-
-“No,” I rolled my eyes. “It’ll be good for em in time anyway. And we’ll always be around to keep em alive. They won’t be.”
+“Oh, you can tell we’re about to be knee deep in shit. They’ll need a crash course,” I rolled my eyes. “It’ll be good for em in time anyway. And we’ll always be around to keep em alive. They won’t be.”
 
 “Look at you with your edgy toxicity,” Lloyd smirked. “Keep that up and Grim’ll back off with a few well constructed burnt-Eoresse roastings.”
 
@@ -140,7 +136,7 @@ Rosa nailed the first one before it could escape into a patch of tall grass, but
 
 
 
-???+ governance "Ability: [Arcane Smite] (Attack)"
+???+ governance "Ability: [Alchemical Smite] (Attack)"
 
     Incantation:  none
     
@@ -164,7 +160,7 @@ Rosa nailed the first one before it could escape into a patch of tall grass, but
     
         - Instantaneously move (not teleportation) to a location in your line of sight and within 15 metres.
     
-        - On arrival, release a powerful explosion that also carries void damage, going through protection.
+        - On arrival, release a powerful explosion that also inflicts inebriation and nausea
 
 
 
@@ -172,7 +168,7 @@ A high-pitched lizard shriek sounded somewhere ahead of them, followed by a crun
 
 Wait a second. I’m not watching a recording, this is actually happening, where did Lloyd go –
 
-BANG. Golden Boy unloaded two mags of tier five amo into the side of the goat-monster’s head in a fractionsecond right as it had launched itself at the Verosavs, but pause not and now it was tearing at Lloyd, who most certainly wasn’t a match for it at such close proximity. Bia and I both sped forward, she to herd away the t-ones and I to help Lloyd. Governance brought up a summary as I approached:
+BANG. Golden Boy unloaded two mags of tier five ammo into the side of the goat-monster’s head in a fractionsecond right as it had launched itself at the Verosavs, but pause not and now it was tearing at Lloyd, who most certainly wasn’t a match for it at such close proximity. Bia and I both sped forward, she to herd away the t-ones and I to help Lloyd. Governance brought up a summary as I approached:
 
 
 
@@ -317,7 +313,7 @@ The corpse twitched.
 
 Wait a minute. We didn’t get a Governance prompt saying we defeated the devorean.
 
-The still-alive monster, somehow still living from the little patches of flesh on its bones, warped uprightand punched him in the face, then followed up with a ram to the chest before – Bia’s scythe chopped through an antler and then buried itself in its chest. It fell weakly to the ground and she continued to clobber at it until the last of its flesh was scissored away.
+The still-alive monster, somehow still living from the little patches of flesh on its bones, warped upright and punched him in the face, then followed up with a ram to the chest before – Bia’s scythe chopped through an antler and then buried itself in its chest. It fell weakly to the ground and she continued to clobber at it until the last of its flesh was scissored away.
 
 “Die, you motherfucker!” Bia screamed. “Fuck off!”
 

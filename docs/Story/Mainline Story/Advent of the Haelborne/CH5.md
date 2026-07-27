@@ -118,11 +118,11 @@ Lloyd put down his apple after realizing he’d been holding it in drinking posi
 
 “Sounds fun!” Lloyd tried for cheery.
 
-“Ughh… we’re so fucked.”
+“We’re so fucked.”
 
 “Hey,” he patted my shoulder. “It’ll be fine. That Arodorros guy seemed friendly enough ya? Maybe we can just negotiate him out of here. And Grim hasn’t shown up this whole time. And us, we’ve got the fuckin, I dunno, something! We got this.”
 
-I looked at him increduously. “You are so fucking weird.”
+I looked at him increduously. “You are weird.”
 
 “No, you.”
 
@@ -192,7 +192,7 @@ The door swung open: “Hellooo!!!!” Bia called in, crunching down onto the so
 
 “It’s bloody sugar flavoured water. It’s ridiculous in concept already, much less execution.”
 
-“Whatev, tastes good,” she looked around and seemed to read the room for once in her life. “You okay Lloydie? You look a little red. Which is weird, you’re Golden Boy not… uh… I dunno, Reddish Boy. Radish Boy. Yeah.”
+“Whatev, tastes good,” she looked around and seemed to read the room for once in her life. “You okay Lloydie? You look a little red. Which is weird, you’re Golden Boy not… uh… I dunno, Reddish Boy. Radish Boy. Yeah. Red Boy!”
 
 “Never call me that,” he said with an icebreaking laugh.
 
